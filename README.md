@@ -1,6 +1,6 @@
 # Titanic : Appyling ML to predict the survival on the Titanic
 ### Data Source 
-Data can be either dowloaded from my <a href = "https://github.com/ramakrishnan-21/Titanic-ml">GitHub profile</a> or directly download from <a href = "https://www.kaggle.com/c/titanic/data">kaggle</a>
+Data can be either dowloaded from my <a href = "https://github.com/ramakrishnan-21/Titanic-dataset">GitHub profile</a> or directly download from <a href = "https://www.kaggle.com/c/titanic/data">kaggle</a>
 ### Description
 The Titanic challenge on <a href = "www.kaggle.com">Kaggle</a> is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat. I have been working with the Titanic dataset for a while, and I have recently achieved an accuracy score of 0.7894 on the public leaderboard.More than 21,600 teams are currently competing.
  In this article my solution goes through the following steps

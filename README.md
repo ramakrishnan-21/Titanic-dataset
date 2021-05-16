@@ -22,6 +22,6 @@ You need to have installed following softwares and libraries in your machine bef
  
  ![energy](./rank.PNG)
  
- I would be happy if you could find out a way to improve my solution. This could make me update the article and definitely give you credit for that. So feel free to post a comment.
+ I would be happy if you could find out a way to improve my solution. So feel free to post a comment.
  ## Authors
  Ramakrishnan - Complete Work
